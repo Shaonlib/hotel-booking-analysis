@@ -40,7 +40,7 @@ hotel-booking-analysis/
 │   └── charts/                     # All generated PNG charts
 │
 ├── docs/
-│   └── executive_summary.pdf       # CFO-ready one-page summary
+│   └── executive_summary.pdf       
 │
 ├── requirements.txt
 ├── .gitignore
