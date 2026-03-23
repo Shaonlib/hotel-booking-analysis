@@ -135,7 +135,5 @@ is available in [`docs/executive_summary.pdf`](docs/executive_summary.pdf).
 ---
 
 ## 👤 Author
-
-Built as a portfolio project for a **Corporate Analyst** role in hospitality finance.
-
+Shaonli 
 Skills demonstrated: data cleaning · SQL · EDA · dashboard design · financial reporting · forecasting
