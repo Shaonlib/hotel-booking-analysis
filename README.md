@@ -120,7 +120,7 @@ jupyter notebook notebooks/hotel_booking_analysis.ipynb
 
 ## 📄 Executive Summary
 
-A CFO-ready one-page summary with KPI tables and actionable recommendations
+A one-page summary with KPI tables and actionable recommendations
 is available in [`docs/executive_summary.pdf`](docs/executive_summary.pdf).
 
 ---
